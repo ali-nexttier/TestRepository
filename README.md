@@ -4,4 +4,4 @@ This is a repository for demonstrating the process of doing a pull request.
 dasdasdasdskdajskdjasdkjasdkasjdkasjd
 The README is a useful file for including general informnation about the repository and its contents.jj
 It is rendered using [markdown](https://daringfireball.net/projects/markdown/), which is essentially a
-dasdasdsway to create readable plain-text documents that can be rendered as web pages or other media formats.
+aldksaddasdasdsway to create readable plain-text documents that can be rendered as web pages or other media formats.
